@@ -6,10 +6,10 @@
         id        = "ru.taxi21.mobile"
         version   = "1.0.0">
 
-    <name>Мобильное приложение Такси21</name>
+    <name>Такси 21</name>
 
     <description>
-        Hello World sample application that responds to the deviceready event.
+        Мобильное приложение Такси 21.
     </description>
 
     <author href="http://bscllc.ru" email="vvnab@bscllc.ru">
